@@ -1,0 +1,8 @@
+.Colourboxgrid{
+    width: 610px;
+    height: 612px;
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    background-image: url('snake&ladder.jpg');
+}

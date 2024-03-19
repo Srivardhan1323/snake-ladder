@@ -1,0 +1,8 @@
+.board{
+    display: flex;
+}
+.player{
+    padding: 0%;
+    width:400px;
+    height: 100px;
+}
