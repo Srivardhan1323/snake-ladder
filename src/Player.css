@@ -1,8 +1,20 @@
+body{
+    margin: 0%;
+}
 .board{
+    margin: 0%;
     display: flex;
 }
+.disable{
+    opacity: 0.6;
+    cursor: not-allowed;
+}
 .player{
-    padding: 0%;
+    margin-top: 300px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgb(61, 61, 66);
     width:400px;
-    height: 100px;
+    height: 100%;
+    color: #a5a481;
 }
